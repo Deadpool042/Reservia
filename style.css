@@ -442,7 +442,6 @@ footer {
   .block_page {
     max-width: 100%;
     margin: auto;
-    outline: 1px solid black;
   }
 
   .titre h2 {
@@ -680,7 +679,7 @@ footer {
     margin: auto;
     width: 90%;
   }
-  .heb{
+  .heb {
     background-color: #ffff;
   }
   .heb h2 {
@@ -736,7 +735,7 @@ footer {
     width: 90%;
     gap: 20px;
   }
-  .act1{
+  .act1 {
     width: 90%;
     height: 194px;
   }
