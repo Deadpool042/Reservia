@@ -35,6 +35,12 @@
   box-sizing: border-box;
   list-style-type: none;
 }
+a:hover{
+  color:#0065DEFC;
+}
+a:visited{
+  color: black;
+}
 
 /*--- header --- */
 header {
@@ -384,6 +390,7 @@ form {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  gap: 20px;
   width: 25%;
 }
 .act2_1 img {
